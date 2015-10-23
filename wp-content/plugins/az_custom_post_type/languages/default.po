@@ -1,0 +1,366 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Alice - AZ Custom Post Type\n"
+"POT-Creation-Date: 2015-04-07 13:13+0100\n"
+"PO-Revision-Date: 2015-04-07 13:13+0100\n"
+"Last-Translator: \n"
+"Language-Team: Alessio Atzeni <info@alessioatzeni.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: az-custom-post-type.php:21 az-custom-post-type.php:24
+msgid "Team"
+msgstr ""
+
+#: az-custom-post-type.php:22
+msgid "Team Item"
+msgstr ""
+
+#: az-custom-post-type.php:23
+msgid "Search Team Item"
+msgstr ""
+
+#: az-custom-post-type.php:25
+msgid "Parent Team Item"
+msgstr ""
+
+#: az-custom-post-type.php:26
+msgid "Edit Team Item"
+msgstr ""
+
+#: az-custom-post-type.php:27
+msgid "Update Team Item"
+msgstr ""
+
+#: az-custom-post-type.php:28
+msgid "Add New Team Item"
+msgstr ""
+
+#: az-custom-post-type.php:39
+msgid "Person"
+msgstr ""
+
+#: az-custom-post-type.php:51 az-custom-post-type.php:59
+msgid "Disciplines"
+msgstr ""
+
+#: az-custom-post-type.php:52
+msgid "Discipline"
+msgstr ""
+
+#: az-custom-post-type.php:53
+msgid "Search Discipline"
+msgstr ""
+
+#: az-custom-post-type.php:54
+msgid "All Discipline"
+msgstr ""
+
+#: az-custom-post-type.php:55
+msgid "Parent Discipline"
+msgstr ""
+
+#: az-custom-post-type.php:56
+msgid "Edit Discipline"
+msgstr ""
+
+#: az-custom-post-type.php:57
+msgid "Update Discipline"
+msgstr ""
+
+#: az-custom-post-type.php:58
+msgid "Add New Discipline"
+msgstr ""
+
+#: az-custom-post-type.php:74 az-custom-post-type.php:83
+msgid "Attributes"
+msgstr ""
+
+#: az-custom-post-type.php:75
+msgid "Attribute"
+msgstr ""
+
+#: az-custom-post-type.php:76
+msgid "Search Attributes"
+msgstr ""
+
+#: az-custom-post-type.php:77
+msgid "All Attributes"
+msgstr ""
+
+#: az-custom-post-type.php:78
+msgid "Parent Attribute"
+msgstr ""
+
+#: az-custom-post-type.php:79
+msgid "Edit Attribute"
+msgstr ""
+
+#: az-custom-post-type.php:80
+msgid "Update Attribute"
+msgstr ""
+
+#: az-custom-post-type.php:81
+msgid "Add New Attribute"
+msgstr ""
+
+#: az-custom-post-type.php:82
+msgid "New Attribute"
+msgstr ""
+
+#: az-custom-post-type.php:117 az-custom-post-type.php:237
+#: az-custom-post-type.php:312 az-custom-post-type.php:388
+msgid "Thumbnail"
+msgstr ""
+
+#: az-custom-post-type.php:140 az-custom-post-type.php:143
+msgid "Portfolio"
+msgstr ""
+
+#: az-custom-post-type.php:141
+msgid "Portfolio Item"
+msgstr ""
+
+#: az-custom-post-type.php:142
+msgid "Search Portfolio Item"
+msgstr ""
+
+#: az-custom-post-type.php:144
+msgid "Parent Portfolio Item"
+msgstr ""
+
+#: az-custom-post-type.php:145
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: az-custom-post-type.php:146
+msgid "Update Portfolio Item"
+msgstr ""
+
+#: az-custom-post-type.php:147
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: az-custom-post-type.php:158
+msgid "Project"
+msgstr ""
+
+#: az-custom-post-type.php:170 az-custom-post-type.php:178
+msgid "Project Categories"
+msgstr ""
+
+#: az-custom-post-type.php:171
+msgid "Project Category"
+msgstr ""
+
+#: az-custom-post-type.php:172
+msgid "Search Project Categories"
+msgstr ""
+
+#: az-custom-post-type.php:173
+msgid "All Project Categories"
+msgstr ""
+
+#: az-custom-post-type.php:174
+msgid "Parent Project Category"
+msgstr ""
+
+#: az-custom-post-type.php:175
+msgid "Edit Project Category"
+msgstr ""
+
+#: az-custom-post-type.php:176
+msgid "Update Project Category"
+msgstr ""
+
+#: az-custom-post-type.php:177
+msgid "Add New Project Category"
+msgstr ""
+
+#: az-custom-post-type.php:194 az-custom-post-type.php:203
+msgid "Project Attributes"
+msgstr ""
+
+#: az-custom-post-type.php:195
+msgid "Project Attribute"
+msgstr ""
+
+#: az-custom-post-type.php:196
+msgid "Search Project Attributes"
+msgstr ""
+
+#: az-custom-post-type.php:197
+msgid "All Project Attributes"
+msgstr ""
+
+#: az-custom-post-type.php:198
+msgid "Parent Project Attribute"
+msgstr ""
+
+#: az-custom-post-type.php:199
+msgid "Edit Project Attribute"
+msgstr ""
+
+#: az-custom-post-type.php:200
+msgid "Update Project Attribute"
+msgstr ""
+
+#: az-custom-post-type.php:201
+msgid "Add New Project Attribute"
+msgstr ""
+
+#: az-custom-post-type.php:202
+msgid "New Project Attribute"
+msgstr ""
+
+#: az-custom-post-type.php:260 az-custom-post-type.php:263
+msgid "Testimonials"
+msgstr ""
+
+#: az-custom-post-type.php:261
+msgid "Testimonial Item"
+msgstr ""
+
+#: az-custom-post-type.php:262
+msgid "Search Testimonial Item"
+msgstr ""
+
+#: az-custom-post-type.php:264
+msgid "Parent Testimonial Item"
+msgstr ""
+
+#: az-custom-post-type.php:265
+msgid "Edit Testimonial Item"
+msgstr ""
+
+#: az-custom-post-type.php:266
+msgid "Update Testimonial Item"
+msgstr ""
+
+#: az-custom-post-type.php:267
+msgid "Add New Testimonial Item"
+msgstr ""
+
+#: az-custom-post-type.php:273
+msgid "Testimonial"
+msgstr ""
+
+#: az-custom-post-type.php:285 az-custom-post-type.php:293
+msgid "Testimonial Categories"
+msgstr ""
+
+#: az-custom-post-type.php:286
+msgid "Testimonial Category"
+msgstr ""
+
+#: az-custom-post-type.php:287
+msgid "Search Testimonial Categories"
+msgstr ""
+
+#: az-custom-post-type.php:288
+msgid "All Testimonial Categories"
+msgstr ""
+
+#: az-custom-post-type.php:289
+msgid "Parent Testimonial Category"
+msgstr ""
+
+#: az-custom-post-type.php:290
+msgid "Edit Testimonial Category"
+msgstr ""
+
+#: az-custom-post-type.php:291
+msgid "Update Testimonial Category"
+msgstr ""
+
+#: az-custom-post-type.php:292
+msgid "Add New Testimonial Category"
+msgstr ""
+
+#: az-custom-post-type.php:336 az-custom-post-type.php:339
+msgid "Clients"
+msgstr ""
+
+#: az-custom-post-type.php:337
+msgid "Client Item"
+msgstr ""
+
+#: az-custom-post-type.php:338
+msgid "Search Client Item"
+msgstr ""
+
+#: az-custom-post-type.php:340
+msgid "Parent Client Item"
+msgstr ""
+
+#: az-custom-post-type.php:341
+msgid "Edit Client Item"
+msgstr ""
+
+#: az-custom-post-type.php:342
+msgid "Update Client Item"
+msgstr ""
+
+#: az-custom-post-type.php:343
+msgid "Add New Client Item"
+msgstr ""
+
+#: az-custom-post-type.php:349
+msgid "Client"
+msgstr ""
+
+#: az-custom-post-type.php:361 az-custom-post-type.php:369
+msgid "Client Categories"
+msgstr ""
+
+#: az-custom-post-type.php:362
+msgid "Client Category"
+msgstr ""
+
+#: az-custom-post-type.php:363
+msgid "Search Client Categories"
+msgstr ""
+
+#: az-custom-post-type.php:364
+msgid "All Client Categories"
+msgstr ""
+
+#: az-custom-post-type.php:365
+msgid "Parent Client Category"
+msgstr ""
+
+#: az-custom-post-type.php:366
+msgid "Edit Client Category"
+msgstr ""
+
+#: az-custom-post-type.php:367
+msgid "Update Client Category"
+msgstr ""
+
+#: az-custom-post-type.php:368
+msgid "Add New Client Category"
+msgstr ""
+
+#: single-portfolio.php:32 single-team.php:32
+msgid "Pages:"
+msgstr ""
+
+#: single-portfolio.php:72 single-portfolio.php:76 single-portfolio.php:105
+#: single-portfolio.php:109
+msgid "Back to Portfolio"
+msgstr ""
+
+#: single-team.php:59 single-team.php:63 single-team.php:92
+#: single-team.php:96
+msgid "Back to Team"
+msgstr ""

@@ -1,0 +1,318 @@
+/*--------------------------------------------------------------------*/
+/*   ALICE CHANGELOG - DEMO.AZ-THEMES.COM/ALICE/
+/*--------------------------------------------------------------------*/
+
+16 JUNE 2015 - Version 1.7.1
+
+	- Fix: Animated Gif Supports
+
+	Added/Replace this files with FTP:
+		- style.css ( version number )
+		- style.min.css ( version number )
+
+		- /vc_extend/vc_templates/az_portfolio_grid.php
+		- /vc_extend/vc_templates/az_team_grid.php
+		- /vc_extend/vc_templates/az_gallery_images.php
+
+
+15 JUNE 2015 - Version 1.7
+
+	- New: Custom Sizes Special Heading Shortcode ( Responsive )
+	- Update: Language Files
+
+	Added/Replace this files with FTP:
+		- style.css
+		- style.min.css
+
+		- /_include/js/main.js
+		- /_include/js/main.min.js
+
+		- /vc_extend/map.php
+		- /vc_extend/dependencies.php
+		- /vc_extend/vc_templates/az_special_heading.php
+
+		- /languages/default.po
+		- /languages/default.mo
+
+
+13 JUNE 2015 - Version 1.6.5
+
+	- Fix: Menu/Sub-Menu Custom Colors
+
+	Added/Replace this files with FTP:
+		- style.css
+		- style.min.css
+
+		- /_include/custom-styles.php
+
+
+2 JUNE 2015 - Version 1.6.4
+
+	- Fix: Menu Mobile
+
+	Added/Replace this files with FTP:
+		- style.css ( version number )
+		- style.min.css ( version number )
+
+		- /_include/js/main.js
+		- /_include/js/main.min.js
+
+		
+1 JUNE 2015 - Version 1.6.3
+
+	- Added: Next Button Scroll for Full-Width Section
+
+	Added/Replace this files with FTP:
+		- style.css
+		- style.min.css
+
+		- /vc_extend/map.php
+		- /vc_extend/vc_templates/vc_row.php
+		
+
+30 MAY 2015 - Version 1.6.2
+
+	- Fix: Error Path Aq Resize
+
+	Added/Replace this files with FTP:
+		- style.css ( version number )
+		- style.min.css ( version number)
+
+		- functions.php
+
+		
+27 MAY 2015 - Version 1.6.1
+
+	- Fix: Dot's Menu for Template Contact and No Footer
+
+	Added/Replace this files with FTP:
+		- style.css ( version number )
+		- style.min.css ( version number)
+
+		- template-contact.php
+		- template-no-footer.php
+
+		
+26 MAY 2015 - Version 1.6
+
+	- New: Enable/Disable the Slogan Menu Box
+	- Update: Redux Framework to 3.5.4.13
+	- Update: Language Files
+
+	Added/Replace this files with FTP:
+		- style.css
+		- style.min.css
+
+		- /_include/js/main.js
+		- /_include/js/main.min.js
+
+		- /framework/redux/redux-core/az_framework/config.php
+
+		- /framework/core/header/az-header-menu.php
+
+		- /framework/redux/redux-core/ ( replace all files )
+
+		- /languages/default.po
+		- /languages/default.mo
+
+		
+23 MAY 2015 - Version 1.5.1
+
+	- Fix: Dot's Menu for Template Contact and No Footer
+
+	Added/Replace this files with FTP:
+		- style.css ( version number )
+		- style.min.css ( version number)
+
+		- template-contact.php
+		- template-no-footer.php
+
+		
+21 MAY 2015 - Version 1.5
+
+	- New: Latest Posts Shortcodes ( Blog Posts )
+	- Update: WPML config file strings
+	- Update: Languages File
+	- Update: Documentation
+
+	Added/Replace this files with FTP:
+		- style.css ( version number )
+		- style.min.css ( version number)
+
+		- wpml-config.xml
+
+		- /vc_extend/map.php
+		- /vc_extend/vc_templates/az_latest_posts.php
+
+		- /languages/default.po
+		- /languages/default.mo
+
+
+20 MAY 2015 - Version 1.4.2
+
+	- Fix: Language Switcher WPML
+
+	Added/Replace this files with FTP:
+		- style.css ( version number )
+		- style.min.css ( version number)
+
+		- /framework/core/header/az-header-optional-menu.php
+
+
+20 MAY 2015 - Version 1.4.1
+
+	- New: Language Switcher WPML
+
+	Added/Replace this files with FTP:
+		- style.css
+		- style.min.css
+
+		- /_include/custom-styles.php
+
+		- /framework/core/header/az-header-optional-menu.php
+
+
+19 MAY 2015 - Version 1.4
+
+	- New: Video Background open in Pop-up/New Window
+	- Update: Languages File
+	- Update: Documentation
+
+	Added/Replace this files with FTP:
+		- style.css
+		- style.min.css
+
+		- /_include/custom-styles.php
+
+		- /_include/js/main.js
+		- /_include/js/main.min.js
+		- /_include/js/plugins.js
+
+		- /vc_extend/map.php
+		- /vc_extend/vc_templates/vc_row.php
+
+		- /framework/redux/meta-config.php
+		- /framework/redux/custom-functions-meta.php
+
+		- /languages/default.po
+		- /languages/default.mo
+
+
+18 MAY 2015 - Version 1.3
+
+	- New: AZ Slider Autoplay Added
+	- New: AZ Slider Loop Added
+	- New: AZ Slider Slide Speed Added
+	- New: AZ Slider Slideshow Speed Added
+	- Update: Languages File
+
+	Added/Replace this files with FTP:
+		- style.css ( version number )
+		- style.min.css ( version number )
+
+		- /_include/js/main.js
+		- /_include/js/main.min.js
+		- /_include/js/plugins.js
+
+		- /framework/redux/meta-config.php
+		- /framework/redux/custom-functions-meta.php
+
+		- /languages/default.po
+		- /languages/default.mo
+		
+
+15 MAY 2015 - Version 1.2.1
+
+	- New: Pattern Opacity Field Hero Title Header
+	- Update: Languages File
+
+	Added/Replace this files with FTP:
+		- style.css ( version number )
+		- style.min.css ( version number )
+
+		- /framework/core/archives/az-archives.php
+		- /framework/core/search/az-search.php
+
+		- /framework/redux/meta-config.php
+		- /framework/redux/custom-functions-meta.php
+
+		- /framework/redux/redux-core/az_framework/config.php
+
+		- /languages/default.po
+		- /languages/default.mo
+
+
+14 MAY 2015 - Version 1.2
+
+	- New: Related Posts Shortcodes ( Team & Portfolio Posts )
+	- Update: Redux Framework to 3.5.4.9
+	- Update: Languages File
+	- Update: Documentation
+
+	Added/Replace this files with FTP:
+		- style.css
+		- style.min.css
+
+		- /framework/redux/redux-core/ ( replace all files )
+
+		- /vc_extend/map.php
+		- /vc_extend/vc_templates/az_related_posts.php
+
+		- /languages/default.po
+		- /languages/default.mo
+
+
+13 MAY 2015 - Version 1.1.2
+
+	- Fixed: Twitter Feed Multiple Instance
+	- Fixed: Testimonial Slider Multiple Instance
+	- Fixed: Lightbox Video PHP error
+
+	Added/Replace this files with FTP:
+		- style.css
+		- style.min.css
+
+		- /_include/js/main.js
+		- /_include/js/main.min.js
+
+		- /vc_extend/vc_templates/az_twitter_feed.php
+		- /vc_extend/vc_templates/az_testimonial_grid.php
+		- /vc_extend/vc_templates/az_lightbox_video.php
+
+
+12 MAY 2015 - Version 1.1.1
+
+	- Fixed: Dots Menu Overflow with Slider
+
+	Added/Replace this files with FTP:
+		- style.css ( version number )
+		- style.min.css ( version number )
+
+		- /_include/js/main.js
+		- /_include/js/main.min.js
+
+
+11 MAY 2015 - Version 1.1
+
+	- New: Background Image Parallax Sections
+	- Update: Languages File
+	- Update: Documentation
+
+	Added/Replace this files with FTP:
+		- style.css
+		- style.min.css
+
+		- /_include/js/main.js
+		- /_include/js/main.min.js
+
+		- /vc_extend/map.php
+		- /vc_extend/vc_templates/vc_row.php
+
+		- /languages/default.po
+		- /languages/default.mo
+
+
+10 MAY 2015 - Version 1.0
+	
+	* Alice First Release
+	

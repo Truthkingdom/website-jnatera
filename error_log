@@ -1,0 +1,3 @@
+[21-Jun-2015 02:55:26 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jnatera/public_html/wp-includes/class-wp-image-editor-gd.php on line 182
+[21-Jun-2015 02:55:57 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jnatera/public_html/wp-includes/class-wp-image-editor-gd.php on line 182
+[21-Jun-2015 03:02:22 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jnatera/public_html/wp-includes/class-wp-image-editor-gd.php on line 182

@@ -1,0 +1,5 @@
+[19-Aug-2015 02:18:58 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/jnatera/public_html/wp-content/plugins/hello.php on line 60
+[02-Sep-2015 02:09:06 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/jnatera/public_html/wp-content/plugins/hello.php on line 60
+[07-Sep-2015 12:47:33 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/jnatera/public_html/wp-content/plugins/hello.php on line 60
+[21-Sep-2015 18:58:38 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/jnatera/public_html/wp-content/plugins/hello.php on line 60
+[16-Oct-2015 06:41:59 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/jnatera/public_html/wp-content/plugins/hello.php on line 60

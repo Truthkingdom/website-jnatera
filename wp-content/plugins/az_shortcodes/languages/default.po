@@ -1,0 +1,451 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Alice - AZ Shortcodes\n"
+"POT-Creation-Date: 2015-04-07 13:12+0100\n"
+"PO-Revision-Date: 2015-04-07 13:13+0100\n"
+"Last-Translator: \n"
+"Language-Team: Alessio Atzeni <info@alessioatzeni.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: tinymce/tinymce-class.php:26
+msgid "Blank Divider"
+msgstr ""
+
+#: tinymce/tinymce-class.php:30
+msgid "Height Value"
+msgstr ""
+
+#: tinymce/tinymce-class.php:31
+msgid "Height Value in pixel. Enter only number value."
+msgstr ""
+
+#: tinymce/tinymce-class.php:35
+msgid "Extra Class Name"
+msgstr ""
+
+#: tinymce/tinymce-class.php:36 tinymce/tinymce-class.php:316
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css/js file."
+msgstr ""
+
+#: tinymce/tinymce-class.php:44
+msgid "Tooltip"
+msgstr ""
+
+#: tinymce/tinymce-class.php:48
+msgid "Position"
+msgstr ""
+
+#: tinymce/tinymce-class.php:49
+msgid "Select the position of the tooltip."
+msgstr ""
+
+#: tinymce/tinymce-class.php:59
+msgid "Text"
+msgstr ""
+
+#: tinymce/tinymce-class.php:60
+msgid "This text appear inside the tooltip."
+msgstr ""
+
+#: tinymce/tinymce-class.php:68
+msgid "Highlight"
+msgstr ""
+
+#: tinymce/tinymce-class.php:72 tinymce/tinymce-class.php:88
+msgid "Mode"
+msgstr ""
+
+#: tinymce/tinymce-class.php:84
+msgid "Dropcap"
+msgstr ""
+
+#: tinymce/tinymce-class.php:100
+msgid "Social Profiles"
+msgstr ""
+
+#: tinymce/tinymce-class.php:105
+msgid "500px URL"
+msgstr ""
+
+#: tinymce/tinymce-class.php:106
+msgid "Please enter in your 500PX URL."
+msgstr ""
+
+#: tinymce/tinymce-class.php:111
+msgid "Behance URL"
+msgstr ""
+
+#: tinymce/tinymce-class.php:112
+msgid "Please enter in your Behance URL."
+msgstr ""
+
+#: tinymce/tinymce-class.php:117
+msgid "Bebo URL"
+msgstr ""
+
+#: tinymce/tinymce-class.php:118
+msgid "Please enter in your Bebo URL."
+msgstr ""
+
+#: tinymce/tinymce-class.php:123
+msgid "Blogger URL"
+msgstr ""
+
+#: tinymce/tinymce-class.php:124
+msgid "Please enter in your Blogger URL."
+msgstr ""
+
+#: tinymce/tinymce-class.php:129
+msgid "Deviant Art URL"
+msgstr ""
+
+#: tinymce/tinymce-class.php:130
+msgid "Please enter in your Deviant Art URL."
+msgstr ""
+
+#: tinymce/tinymce-class.php:135
+msgid "Digg URL"
+msgstr ""
+
+#: tinymce/tinymce-class.php:136
+msgid "Please enter in your Digg URL."
+msgstr ""
+
+#: tinymce/tinymce-class.php:141
+msgid "Dribbble URL"
+msgstr ""
+
+#: tinymce/tinymce-class.php:142
+msgid "Please enter in your Dribbble URL."
+msgstr ""
+
+#: tinymce/tinymce-class.php:147
+msgid "Email URL"
+msgstr ""
+
+#: tinymce/tinymce-class.php:148
+msgid "Please enter in your Email URL. Example: mailto:someone@example.com"
+msgstr ""
+
+#: tinymce/tinymce-class.php:153
+msgid "Envato URL"
+msgstr ""
+
+#: tinymce/tinymce-class.php:154
+msgid "Please enter in your Envato URL."
+msgstr ""
+
+#: tinymce/tinymce-class.php:159
+msgid "Evernote URL"
+msgstr ""
+
+#: tinymce/tinymce-class.php:160
+msgid "Please enter in your Evernote URL."
+msgstr ""
+
+#: tinymce/tinymce-class.php:165
+msgid "Facebook URL"
+msgstr ""
+
+#: tinymce/tinymce-class.php:166
+msgid "Please enter in your Facebook URL."
+msgstr ""
+
+#: tinymce/tinymce-class.php:171
+msgid "Flickr URL"
+msgstr ""
+
+#: tinymce/tinymce-class.php:172
+msgid "Please enter in your Flickr URL."
+msgstr ""
+
+#: tinymce/tinymce-class.php:177
+msgid "Forrst URL"
+msgstr ""
+
+#: tinymce/tinymce-class.php:178
+msgid "Please enter in your Forrst URL."
+msgstr ""
+
+#: tinymce/tinymce-class.php:183
+msgid "Github URL"
+msgstr ""
+
+#: tinymce/tinymce-class.php:184
+msgid "Please enter in your Github URL."
+msgstr ""
+
+#: tinymce/tinymce-class.php:189
+msgid "Google Plus URL"
+msgstr ""
+
+#: tinymce/tinymce-class.php:190
+msgid "Please enter in your Google Plus URL."
+msgstr ""
+
+#: tinymce/tinymce-class.php:195
+msgid "Grooveshark URL"
+msgstr ""
+
+#: tinymce/tinymce-class.php:196
+msgid "Please enter in your Grooveshark URL."
+msgstr ""
+
+#: tinymce/tinymce-class.php:201
+msgid "Instagram URL"
+msgstr ""
+
+#: tinymce/tinymce-class.php:202
+msgid "Please enter in your Instagram URL."
+msgstr ""
+
+#: tinymce/tinymce-class.php:207
+msgid "Last FM URL"
+msgstr ""
+
+#: tinymce/tinymce-class.php:208
+msgid "Please enter in your Last FM URL."
+msgstr ""
+
+#: tinymce/tinymce-class.php:213
+msgid "Linked-In URL"
+msgstr ""
+
+#: tinymce/tinymce-class.php:214
+msgid "Please enter in your Linked-In URL."
+msgstr ""
+
+#: tinymce/tinymce-class.php:219
+msgid "Pinterest URL"
+msgstr ""
+
+#: tinymce/tinymce-class.php:220
+msgid "Please enter in your Pinterest URL."
+msgstr ""
+
+#: tinymce/tinymce-class.php:225
+msgid "Quora URL"
+msgstr ""
+
+#: tinymce/tinymce-class.php:226
+msgid "Please enter in your Quora URL."
+msgstr ""
+
+#: tinymce/tinymce-class.php:231
+msgid "Skype URL"
+msgstr ""
+
+#: tinymce/tinymce-class.php:232
+msgid "Please enter in your Skype URL. Example: skype:username?call"
+msgstr ""
+
+#: tinymce/tinymce-class.php:237
+msgid "Soundcloud URL"
+msgstr ""
+
+#: tinymce/tinymce-class.php:238
+msgid "Please enter in your Soundcloud URL."
+msgstr ""
+
+#: tinymce/tinymce-class.php:243
+msgid "Stumbleupon URL"
+msgstr ""
+
+#: tinymce/tinymce-class.php:244
+msgid "Please enter in your Stumbleupon URL."
+msgstr ""
+
+#: tinymce/tinymce-class.php:249
+msgid "Tumblr URL"
+msgstr ""
+
+#: tinymce/tinymce-class.php:250
+msgid "Please enter in your Tumblr URL."
+msgstr ""
+
+#: tinymce/tinymce-class.php:255
+msgid "Twitter URL"
+msgstr ""
+
+#: tinymce/tinymce-class.php:256
+msgid "Please enter in your Twitter URL."
+msgstr ""
+
+#: tinymce/tinymce-class.php:261
+msgid "Viddler URL"
+msgstr ""
+
+#: tinymce/tinymce-class.php:262
+msgid "Please enter in your Viddler URL."
+msgstr ""
+
+#: tinymce/tinymce-class.php:267
+msgid "Vimeo URL"
+msgstr ""
+
+#: tinymce/tinymce-class.php:268
+msgid "Please enter in your Vimeo URL."
+msgstr ""
+
+#: tinymce/tinymce-class.php:273
+msgid "Virb URL"
+msgstr ""
+
+#: tinymce/tinymce-class.php:274
+msgid "Please enter in your Virb URL."
+msgstr ""
+
+#: tinymce/tinymce-class.php:279
+msgid "Wordpress URL"
+msgstr ""
+
+#: tinymce/tinymce-class.php:280
+msgid "Please enter in your Wordpress URL."
+msgstr ""
+
+#: tinymce/tinymce-class.php:285
+msgid "Xing URL"
+msgstr ""
+
+#: tinymce/tinymce-class.php:286
+msgid "Please enter in your Xing URL."
+msgstr ""
+
+#: tinymce/tinymce-class.php:291
+msgid "Yahoo URL"
+msgstr ""
+
+#: tinymce/tinymce-class.php:292
+msgid "Please enter in your Yahoo URL."
+msgstr ""
+
+#: tinymce/tinymce-class.php:297
+msgid "Yelp URL"
+msgstr ""
+
+#: tinymce/tinymce-class.php:298
+msgid "Please enter in your Yelp URL."
+msgstr ""
+
+#: tinymce/tinymce-class.php:303
+msgid "Youtube URL"
+msgstr ""
+
+#: tinymce/tinymce-class.php:304
+msgid "Please enter in your Youtube URL."
+msgstr ""
+
+#: tinymce/tinymce-class.php:309
+msgid "Zerply URL"
+msgstr ""
+
+#: tinymce/tinymce-class.php:310
+msgid "Please enter in your Zerply URL."
+msgstr ""
+
+#: tinymce/tinymce-class.php:315
+msgid "Extra Class name"
+msgstr ""
+
+#: tinymce/tinymce-class.php:336
+msgid "Choose your Shortcode..."
+msgstr ""
+
+#: tinymce/tinymce-class.php:365
+msgid "Content: "
+msgstr ""
+
+#: tinymce/tinymce-class.php:373
+msgid "Add Shortcode"
+msgstr ""
+
+#: tinymce/tinymce-class.php:460
+msgid "Accordion Title: "
+msgstr ""
+
+#: tinymce/tinymce-class.php:462
+msgid "Accordion Content: "
+msgstr ""
+
+#: tinymce/tinymce-class.php:466
+msgid "Remove Accordion"
+msgstr ""
+
+#: tinymce/tinymce-class.php:466
+msgid "Add Accordion"
+msgstr ""
+
+#: tinymce/tinymce-class.php:474
+msgid "Toggle Title: "
+msgstr ""
+
+#: tinymce/tinymce-class.php:476
+msgid "Toggle Content: "
+msgstr ""
+
+#: tinymce/tinymce-class.php:480
+msgid "Remove Toggle"
+msgstr ""
+
+#: tinymce/tinymce-class.php:480
+msgid "Add Toggle"
+msgstr ""
+
+#: tinymce/tinymce-class.php:488
+msgid "Tab Title: "
+msgstr ""
+
+#: tinymce/tinymce-class.php:490
+msgid "Tab Content: "
+msgstr ""
+
+#: tinymce/tinymce-class.php:494
+msgid "Remove Tab"
+msgstr ""
+
+#: tinymce/tinymce-class.php:494
+msgid "Add Tab"
+msgstr ""
+
+#: tinymce/tinymce-class.php:502
+msgid "Testimonial Image: "
+msgstr ""
+
+#: tinymce/tinymce-class.php:506 tinymce/tinymce-class.php:528
+#: tinymce/tinymce-class.php:546
+msgid "Upload"
+msgstr ""
+
+#: tinymce/tinymce-class.php:507 tinymce/tinymce-class.php:529
+#: tinymce/tinymce-class.php:547
+msgid "Remove Upload"
+msgstr ""
+
+#: tinymce/tinymce-class.php:510
+msgid "Testimonial Title: "
+msgstr ""
+
+#: tinymce/tinymce-class.php:512
+msgid "Testimonial Content: "
+msgstr ""
+
+#: tinymce/tinymce-class.php:516
+msgid "Remove Testimonial"
+msgstr ""
+
+#: tinymce/tinymce-class.php:516
+msgid "Add Testimonial"
+msgstr ""
